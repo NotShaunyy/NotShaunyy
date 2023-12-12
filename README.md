@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @NotShaunyy
-- 👀 I’m interested in Programming, (obvi)
-                
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a 15 year old programmer, started at the age of 11 when I made my first game using 
+BATCH now coding is my passion and id love to turn it into a career.
 
 <!---
 NotShaunyy/NotShaunyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
